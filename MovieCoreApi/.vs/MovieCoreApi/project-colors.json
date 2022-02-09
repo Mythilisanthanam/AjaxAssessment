@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "762cf221-0480-474b-910b-f3f03de02b91": {
+      "ProjectGuid": "762cf221-0480-474b-910b-f3f03de02b91",
+      "DisplayName": "MovieCoreApp",
+      "ColorIndex": 0
+    },
+    "55f7056d-6433-4d57-b798-263703ce5618": {
+      "ProjectGuid": "55f7056d-6433-4d57-b798-263703ce5618",
+      "DisplayName": "MovieCoreApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
